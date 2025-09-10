@@ -11,12 +11,12 @@ This repository is dedicated to organizing and documenting all materials, resour
 
 This repository is organized into the following folders:
 
-- **assignments** – Take-home assignments and project work related to technical drawing.  
-- **class exercises** – In-class drawing exercises and practice materials.  
-- **projects** – Major drawing projects including mechanical parts, electrical diagrams, and schematics.  
-- **resources** – Additional readings, software guides, and reference materials.  
-- **slides and notes** – Lecture materials, demonstrations, and class notes.  
-- **software tutorials** – Guides for Adobe Illustrator, SketchUp, and AutoCAD.
+- **homework/** — Take-home/homework submissions and related assignment files.
+- **info/** — Course info, schedules, syllabus, and administrative documents.
+- **necessary files (adobe illustrator)/** — Adobe Illustrator source files and design assets used in the course.
+- **notes/** — Lecture notes, handouts, and quick reference sheets.
+- **questions and answers/** — Past questions, worked solutions, and practice Q&A.
+- **resources/** — Additional readings, external links, software guides, and reference materials.
 
 ---
 
