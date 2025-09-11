@@ -148,4 +148,3 @@ This repository and its contents are licensed under a
 © 2025 Mosroor Mofiz Arman. Commercial use requires prior written permission.  
 
 For commercial use requests, please contact me via my [GitHub profile](https://github.com/mosroormofizarman).
-```
