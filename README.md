@@ -113,7 +113,7 @@ By the end of the course, students will be able to:
 
 ## 👨‍🏫 Instructor Details
 
-- **Name:** Mujtaba Ahsan  
+- **Name:** [Mujtaba Ahsan[MUN]](https://www.northsouth.edu/faculty-members/seps/architecture/mujtaba-ahsan.html)  
 - **Office:** SAC910  
 - **Office Hours:** A 11:20 – 12:50 pm  
 - **Phone:** (+880) 2‑55668200 Ext. 1854  
