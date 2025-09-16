@@ -24,7 +24,7 @@ This repository is organized into the following folders:
 
 - **Course Code:** EEE154  
 - **Course Title:** Engineering Drawing  
-- **Instructor:** Mujtaba Ahsan  
+- **Instructor:** [Mujtaba Ahsan[MUN]](https://www.northsouth.edu/faculty-members/seps/architecture/mujtaba-ahsan.html)    
 - **Department:** Electrical and Computer Engineering  
 - **Program:** Undergraduate  
 - **Semester:** **FALL 2020**  
